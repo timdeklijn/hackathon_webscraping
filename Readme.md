@@ -2,11 +2,11 @@
 
 ## Why Webscraping
 
-Data is not always available in a wel organized database or a flat CSV file.
+Data is not always available in a well organized database or a flat CSV file.
 Somethimes the data is available only on a website. We can 'scrape' this
 website to extract the data we want and put that in a database or file
-ourselfs. If there is a lot of data or the data updates the data we want quite
-often, a script to extract the data can be written.
+ourselfs. If there is a lot of data or the data is updated quite often, a
+script to extract the data can be written.
 
 ## Packages
 
