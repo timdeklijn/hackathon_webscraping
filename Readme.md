@@ -19,3 +19,24 @@ often, a script to extract the data can be written.
 Scrape the website [modelzoo.co](https://modelzoo.co/) and create a dataframe
 containing the information on all models. Visualize the distributions found in
 the data and other interesting features.
+
+## Running the examples
+
+First install the required packages:
+
+```
+pip install -r requirements.txt
+```
+
+To run the exampels we run our own website:
+
+```
+cd tst_html
+python -m http.server
+```
+
+Then run each example:
+
+```
+python examples/01_get_html.py
+```
