@@ -13,6 +13,7 @@ often, a script to extract the data can be written.
 - `requests`: perform http requests that will return the raw html of a webpage
 - `beautifulsoup4`: interpret the html and extract the information of interest
 - `pandas`: dataframes are handy to work with
+- `lxml`: library that allows pandas to interpret an html table
 
 ## Challenge
 
